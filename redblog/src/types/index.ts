@@ -1,0 +1,1 @@
+// Este archivo define tipos y interfaces que se utilizan en toda la aplicación.
